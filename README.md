@@ -5,7 +5,7 @@ Work in your Naffes CRM from Claude: your day, your pipeline, your customers.
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add ahmedtaher3/naffes-claude-plugin
+/plugin marketplace add I3mal-Team/naffes-claude-plugin
 /plugin install naffes@naffes
 ```
 
