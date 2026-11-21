@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "naffes": {
+      "type": "http",
+      "url": "https://api.naffes.net/api/mcp"
+    }
+  }
+}

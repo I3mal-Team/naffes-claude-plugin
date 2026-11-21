@@ -1,0 +1,15 @@
+{
+  "name": "naffes",
+  "description": "Naffes CRM for Claude.",
+  "owner": {
+    "name": "Naffes",
+    "url": "https://naffes.net"
+  },
+  "plugins": [
+    {
+      "name": "naffes",
+      "source": "./plugins/naffes",
+      "description": "Work in your Naffes CRM from Claude: your day, your pipeline, your customers."
+    }
+  ]
+}

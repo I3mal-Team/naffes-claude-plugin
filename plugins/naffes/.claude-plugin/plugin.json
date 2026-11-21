@@ -1,0 +1,8 @@
+{
+  "name": "naffes",
+  "description": "Work in your Naffes CRM from Claude: your day, your pipeline, your customers.",
+  "version": "1.0.0",
+  "author": { "name": "Naffes", "url": "https://naffes.net" },
+  "homepage": "https://naffes.net",
+  "keywords": ["crm", "sales", "naffes"]
+}
